@@ -26,7 +26,7 @@ These are the latest Core2k6k Anki Decks that offer the following features:
 
 It is suggested that you practice writing on a notebook while studying this deck. This will improve your writing skills tremendously. Also, try to pronounce the word with correct pitch accent to learn natural accent from ground up, this shall prove to be very useful when you continue to learn.
 
-If you are a **new japanese learner** that wants a source to learn vocabulary, this is deffinately for you. Before you start studying, I suggest that you learn the following concepts before starting:
+If you are a **new japanese learner** that wants a source to learn vocabulary, this is deffinately for you. Before you start studying, I suggest that you learn the following concepts:
 
 * What is japanese pitch accent?
 * How to read hiragana?
